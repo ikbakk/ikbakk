@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Iqbal Firdaus</h1>
 <h3 align="center">Electrical Engineering student at University of Mataram</h3>
 
-- 🌱 I’m currently learning Web Development especially **React and React Native**
+- 🌱 I’m currently learning **React and React Native**
 
 - 📫 How to reach me 
 
