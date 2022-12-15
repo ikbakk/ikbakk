@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning Web Development especially **React and React Native**
 
-- 📫 How to reach me **iqbalfirdaus05@gmail.com**
+- 📫 How to reach me 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
