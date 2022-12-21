@@ -1,7 +1,7 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 50%" />  
   
 
-### <div align="center">I'm M. Iqbal Firdaus, a Front-End Web Developer</div>  
+# <div align="center">I'm M. Iqbal Firdaus, a Front-End Web Developer</div>  
   
 
 - 🔭 I’m currently working on [Local Subject App](https://github.com/ikbakk/test-react-native)  
@@ -78,6 +78,3 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=ikbakk&show_icons=true&count_private=true&hide_border=true" align="left" />
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
