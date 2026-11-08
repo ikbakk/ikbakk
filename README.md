@@ -1,63 +1,103 @@
-<h1 data-importer="text" align="center">Hey 👋What's Up?</h1>
-
-###
-
-<div data-importer="techs" align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="60" alt="dotnetcore logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="express logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="60" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="60" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
+<div align="center">
+  <img src="assets/profile-header.svg" width="100%" alt="Muhammad Iqbal Firdaus — Software Engineer, Web & Mobile" />
 </div>
 
-###
+<table>
+<tr><td width="67%" valign="top">
 
-<div data-importer="socials" align="center">
-  <a href="https://linkedin.com/in/ikbakk" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:ikbakfir@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://ikbak.vercel.app" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Portfolio%20Site&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
-  </a>
+### Building useful software, end to end.
+
+I'm **Muhammad Iqbal Firdaus**, a software engineer working across **web and mobile applications**. I turn product requirements into dependable interfaces, integrate backend systems, and improve applications that already serve real users.
+
+My work spans client delivery, product engineering, and independent experiments. I care about thoughtful UX, maintainable code, and getting the important things shipped.
+
+</td><td width="33%" valign="top">
+
+**CURRENT FOCUS**
+
+- Frontend & mobile engineering
+- Product-oriented development
+- Practical, maintainable systems
+
+**CONNECT**
+
+[LinkedIn](https://linkedin.com/in/ikbakk) · [Email](mailto:ikbakfir@gmail.com)
+
+</td></tr>
+</table>
+
+---
+
+### Selected work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[Rentalin ↗](https://github.com/ikbakk/rentalin)**  
+*Vehicle-rental operations platform*
+
+Business operations and public booking in one product. Built around tenant-aware access, real-time application data, and a dedicated marketing experience.
+
+`Next.js` `TypeScript` `Convex` `Astro`
+
+</td>
+<td width="50%" valign="top">
+
+**[Beaconnect ↗](https://github.com/ikbakk/beaconnect)**  
+*Privacy-conscious companion app*
+
+A mutual-sharing Android experience designed around reassurance, consent, and calm interactions. Product decisions and architecture are documented alongside implementation.
+
+`Flutter` `Firebase` `Android`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[Personal portfolio ↗](https://github.com/ikbakk/website-portofolio)**  
+*An interactive project archive*
+
+An Astro-powered personal portfolio with a distinctive visual system, progressive enhancement, accessible navigation, and project case studies.
+
+`Astro` `TypeScript` `Tailwind CSS` `GSAP`
+
+</td>
+<td width="50%" valign="top">
+
+**[ESP32 Ward Monitor ↗](https://github.com/ikbakk/esp32-ward-monitor)**  
+*Connected systems experiment*
+
+A medical-monitoring simulation using ESP32 and Firebase, exploring device data, alerts, and integration with web interfaces.
+
+`ESP32` `C++` `Firebase`
+
+</td>
+</tr>
+</table>
+
+---
+
+### How I work
+
+**Build from a real problem** → Understand the user and the constraints before selecting technology.  
+**Make it maintainable** → Separate responsibilities, reuse patterns, and avoid unnecessary complexity.  
+**Ship and improve** → Validate behavior, handle edge cases, and iterate based on actual usage.
+
+### Engineering toolkit
+
+**Web:** React · Next.js · Astro · TypeScript  
+**Mobile:** Flutter · React Native  
+**Backend & data:** Node.js · NestJS · PostgreSQL · Firebase · Convex  
+**Delivery:** Git · Docker · CI checks · Testing
+
+---
+
+<div align="center">
+  <strong>Have a product to build or a system to improve?</strong>
+  <p>I'm open to engineering opportunities and selected collaborations.</p>
+  <a href="mailto:ikbakfir@gmail.com"><strong>Start a conversation →</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/ikbakk">LinkedIn</a>
 </div>
-
-###
-
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/ikbakk/ikbakk/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph"  />
-  <img src="https://raw.githubusercontent.com/ikbakk/ikbakk/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-  <img src="https://raw.githubusercontent.com/ikbakk/ikbakk/activity-graph-output/activity-graph.svg?radius=16&theme=dracula&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ikbakk/ikbakk/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ikbakk/ikbakk/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/ikbakk/ikbakk/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
