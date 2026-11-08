@@ -1,14 +1,44 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-<title id="title">Muhammad Iqbal Firdaus — Software Engineer</title>
-<desc id="desc">Minimal dark editorial banner with green geometry and a monogram.</desc>
-<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101A1B"/><stop offset="1" stop-color="#172524"/></linearGradient><linearGradient id="green" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#C1F5D8"/><stop offset="1" stop-color="#67DCA2"/></linearGradient><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#35534A" stroke-width="1" opacity=".27"/></pattern></defs>
-<rect width="1200" height="330" rx="18" fill="url(#bg)"/><rect x="690" y="0" width="510" height="330" fill="url(#grid)"/>
-<path d="M785 295C865 270 855 170 936 151C1027 129 1078 75 1154-29" fill="none" stroke="#86E4B5" stroke-width="2" opacity=".6"/><path d="M730 360C841 288 874 256 930 261C1042 269 1093 173 1216 123" fill="none" stroke="#86E4B5" stroke-width="1" opacity=".3"/>
-<circle cx="1021" cy="147" r="114" fill="none" stroke="#76D9A7" stroke-opacity=".36"/><circle cx="1021" cy="147" r="83" fill="none" stroke="#76D9A7" stroke-opacity=".35"/>
-<rect x="969" y="95" width="104" height="104" rx="19" transform="rotate(12 1021 147)" fill="#B4ECCC"/>
-<text x="1021" y="164" font-family="Arial, Helvetica, sans-serif" text-anchor="middle" font-size="43" font-weight="700" letter-spacing="-3" fill="#13231C">IF</text>
-<text x="62" y="73" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3.2" fill="#86E4B5">SOFTWARE ENGINEER  /  WEB + MOBILE</text>
-<text x="62" y="149" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="49" letter-spacing="-1.6" fill="#F1F7F2">Muhammad Iqbal</text>
-<text x="62" y="205" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="49" letter-spacing="-1.6" fill="#F1F7F2">Firdaus.</text>
-<rect x="63" y="239" width="53" height="3" rx="1" fill="url(#green)"/><text x="63" y="277" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#B9CAC1">Useful products. Thoughtful interfaces. Reliable delivery.</text>
-<text x="1116" y="298" font-family="Arial, Helvetica, sans-serif" font-size="12" letter-spacing="2" text-anchor="end" fill="#91B2A0">IKBAKK / 2026</text></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="ttl dsc">
+<title id="ttl">Iqbal Firdaus — Software Engineer</title>
+<desc id="dsc">Custom dark editorial identity banner with oversized typography, lime-mint accents, and a geometric engineering diagram.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#111917"/><stop offset="1" stop-color="#17241f"/></linearGradient>
+<linearGradient id="orb" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#a8edb6"/><stop offset="1" stop-color="#64cda2"/></linearGradient>
+<pattern id="dot" width="20" height="20" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#93b8a0" opacity=".21"/></pattern>
+<clipPath id="right"><rect x="744" y="0" width="456" height="360"/></clipPath>
+</defs>
+<rect width="1200" height="360" rx="12" fill="url(#bg)"/>
+<rect x="744" width="456" height="360" fill="#182821"/>
+<path d="M744 0V360" stroke="#375044" stroke-width="1"/>
+<rect x="744" width="456" height="360" fill="url(#dot)"/>
+<path d="M38 41H1162" stroke="#34453c" stroke-width="1"/>
+<path d="M38 317H1162" stroke="#34453c" stroke-width="1"/>
+<rect x="38" y="26" width="9" height="9" rx="2" fill="#a9f0b8"/>
+<text x="56" y="35" font-family="Arial,Helvetica,sans-serif" font-size="11" font-weight="700" letter-spacing="2.4" fill="#b6d0bd">IKBAKK / PERSONAL INDEX</text>
+<text x="708" y="35" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" fill="#859e90">EST. IN CURIOSITY</text>
+<text x="38" y="103" font-family="Arial,Helvetica,sans-serif" font-size="15" font-weight="700" letter-spacing="3.4" fill="#9fe9b8">SOFTWARE ENGINEER</text>
+<text x="34" y="181" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="76" letter-spacing="-4.8" fill="#f2f4ec">Iqbal</text>
+<text x="34" y="255" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="76" letter-spacing="-4.8" fill="#f2f4ec">Firdaus<tspan fill="#a9edb8">.</tspan></text>
+<text x="38" y="293" font-family="Arial,Helvetica,sans-serif" font-size="16" letter-spacing=".15" fill="#b5c8b9">Building useful software for the real world.</text>
+<text x="38" y="340" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1.8" fill="#8aa493">WEB DEVELOPMENT</text>
+<circle cx="195" cy="336" r="2.5" fill="#77c99d"/>
+<text x="209" y="340" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="1.8" fill="#8aa493">MOBILE ENGINEERING</text>
+<g clip-path="url(#right)">
+<circle cx="976" cy="177" r="162" fill="none" stroke="#415c4b" stroke-width="1"/>
+<circle cx="976" cy="177" r="130" fill="none" stroke="#4e7058" stroke-width="1" stroke-dasharray="2 7"/>
+<circle cx="976" cy="177" r="98" fill="none" stroke="#729e7e" stroke-width="1"/>
+<path d="M778 177H1174M976-21V375" stroke="#6d9479" stroke-opacity=".32"/>
+<path d="M824 311L1128 43M835 43L1117 311" stroke="#679575" stroke-opacity=".22"/>
+<rect x="894" y="95" width="164" height="164" rx="22" transform="rotate(-12 976 177)" fill="#20382d" stroke="#7ed69e" stroke-width="2"/>
+<rect x="913" y="114" width="126" height="126" rx="14" transform="rotate(-12 976 177)" fill="url(#orb)"/>
+<path d="M955 130L940 220" stroke="#143428" stroke-opacity=".13" stroke-width="2"/>
+<text x="976" y="199" font-family="Arial,Helvetica,sans-serif" font-size="73" font-weight="800" letter-spacing="-9" text-anchor="middle" fill="#173629">IF</text>
+<circle cx="1074" cy="82" r="7" fill="#b9f4bd"/>
+<circle cx="861" cy="257" r="4" fill="#83cb9f"/>
+<path d="M1074 82H1140V64" fill="none" stroke="#9bd6a5"/>
+<path d="M861 257H814V278" fill="none" stroke="#9bd6a5"/>
+<text x="1141" y="58" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.5" text-anchor="end" fill="#b7d3ba">DESIGN / 01</text>
+<text x="814" y="294" font-family="Arial,Helvetica,sans-serif" font-size="10" letter-spacing="1.5" fill="#b7d3ba">BUILD / 02</text>
+</g>
+<text x="1160" y="340" font-family="Arial,Helvetica,sans-serif" font-size="11" letter-spacing="2" text-anchor="end" fill="#95b39e">THINK · BUILD · REFINE</text>
+</svg>
